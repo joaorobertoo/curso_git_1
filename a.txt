@@ -3,3 +3,6 @@ Uma atualização do arquivo 2
 Enviando 
 uma 
 Funcionalidade A
+
+-branch_1
+enviando a funcionalidade B 
